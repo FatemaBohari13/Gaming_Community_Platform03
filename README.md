@@ -46,7 +46,8 @@ The platform provides a clean and interactive interface for viewing featured gam
 
 ## 🌐 Live Demo
 
-[Add your GitHub Pages link here]
+https://fatemabohari13.github.io/Gaming_Community_Platform03/
+
 
 ## 📂 Repository Link
 
